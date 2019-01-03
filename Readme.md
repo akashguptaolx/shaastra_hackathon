@@ -33,6 +33,7 @@ Definition : http://statweb.stanford.edu/~susan/courses/s60/split/node60.html
 **Link to Zip**
 
 The zip contains 3 files : train.csv, test.csv and sample_submission.csv
+
 You need to use train.csv to train your algorithms and submit the predictions for the ads in test.csv. 
 
 sample_submission.csv is the submission format. 
