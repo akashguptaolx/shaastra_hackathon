@@ -30,13 +30,19 @@ We will use RMSE (Root Mean Squared Error) to score the submissions.
 Definition : http://statweb.stanford.edu/~susan/courses/s60/split/node60.html
 
 ## Data 
-**Link to Zip**
 
+You can access a sample of the data right now: https://www.dropbox.com/s/z4bz0ip8xl17zll/sample_data.csv?dl=1
+
+The final data link will be updated on the day of the event
+
+
+<!---
 The zip contains 3 files : train.csv, test.csv and sample_submission.csv
 
 You need to use train.csv to train your algorithms and submit the predictions for the ads in test.csv. 
 
 sample_submission.csv is the submission format. 
+
 
 ## Submissions
 
@@ -52,6 +58,6 @@ sample_submission.csv is the submission format.
 
 - Upload your solutions to : **Upload Link**
 
-
+---> 
 
 
