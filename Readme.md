@@ -2,7 +2,7 @@
 
 ## Problem Statement 
 
-OLX is an online classifieds platform where buyers and sellers come together to trade old and new goods. When a seller lists an item to be sold on the platform, he/she writes a title and a description for the listing, lists a price, ads some images of the item. Along with this, we also have data such as the category of the item, place of posting etc. Using these attributes, OLX is challenging you to predict the demand of a listing. The demand is defined in terms of no of unique buyers for the listing in a month of being posted. We have normalized the demand to be a continuous variable between 0 and 1. 
+OLX is an online classifieds platform where buyers and sellers come together to trade old and new goods. When a seller lists an item to be sold on the platform, he/she writes a title and a description for the listing, lists a price, ads some images of the item. Along with this, we also have data such as the category of the item, place of posting etc. Using these attributes, OLX is challenging you to predict the demand of a listing. The demand is defined in terms of no of unique buyers the listing will get in a month of being posted. We have normalized the demand to be a continuous variable between 0 and 1. 
 
 ## Data Dictionary 
 
