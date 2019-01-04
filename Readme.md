@@ -2,24 +2,24 @@
 
 ## Problem Statement 
 
-OLX is an online classifieds platform where buyers and sellers come together to trade old and new goods. When a seller lists an item to be sold on the platform, he/she writes a title and a description for the ad, lists a price, ads some images of the item. Along with this, we also have data such as the category of the item, place of posting etc. Using these attributes, OLX is challenging you to predict the demand of an ad will in a month of being posted. We have normalized demand to be a continuous variable between 0 and 1
+OLX is an online classifieds platform where buyers and sellers come together to trade old and new goods. When a seller lists an item to be sold on the platform, he/she writes a title and a description for the listing, lists a price, ads some images of the item. Along with this, we also have data such as the category of the item, place of posting etc. Using these attributes, OLX is challenging you to predict the demand of a listing. The demand is defined in terms of no of unique buyers for the listing in a month of being posted. We have normalized the demand to be a continuous variable between 0 and 1. 
 
 ## Data Dictionary 
 
 | Column | Description  |
 | ------------- | ------------- |
-| id | Unique identifier for ad  |
-| region_id | Region identifier from which ad was posted  |
-| district_id | District identifier from which ad was posted  |
-| city_id | City identifier from which ad was posted  |
+| id | Unique identifier for listing  |
+| region_id | Region identifier from which the listing was posted  |
+| district_id | District identifier from which the listing was posted  |
+| city_id | City identifier from which the listing was posted  |
 | category_id | Item Category identifier  |
 | l1 | Category Name  |
 | l2 | Sub Category Name  |
 | user_id | Seller identifier  |
-| created_at_first | Timestamp when ad was posted  |
-| title | Title of the ad  |
-| description | description of the ad  |
-| listing_num_images | Number of images uploaded for the ad  |
+| created_at_first | Timestamp when the listing was posted  |
+| title | Title of the the listing  |
+| description | description of the listing  |
+| listing_num_images | Number of images uploaded for the listing  |
 | listing_price | Price listed by the seller  |
 | demand | target variable  |
 
