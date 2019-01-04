@@ -27,11 +27,11 @@ OLX is an online classifieds platform where buyers and sellers come together to 
 ## Evaluation Metric 
 
 We will use RMSE (Root Mean Squared Error) to score the submissions. 
-Definition : http://statweb.stanford.edu/~susan/courses/s60/split/node60.html
+[Definition](http://statweb.stanford.edu/~susan/courses/s60/split/node60.html)
 
 ## Data 
 
-You can access a sample of the data right now: https://www.dropbox.com/s/z4bz0ip8xl17zll/sample_data.csv?dl=1
+You can access a sample of the data right now: <https://www.dropbox.com/s/z4bz0ip8xl17zll/sample_data.csv?dl=1>
 
 The final data link will be updated on the day of the event
 
