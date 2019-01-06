@@ -31,6 +31,8 @@ We will use RMSE (Root Mean Squared Error) to score the submissions.
 
 ## Data 
 
+(http://www.dropbox.com/s/hib7optbsxhq2ny/data.zip?dl=1)
+
 The zip contains 3 files : train.csv, test.csv and sample_submission.csv
 
 You need to use train.csv to train your algorithms and submit the predictions for the ads in test.csv. 
@@ -50,7 +52,7 @@ sample_submission.csv is the submission format.
 
 - You can submit as many solutions and your best submission will be considered
 
-- Upload your solutions to : **Upload Link**
+- Upload your solutions to : (https://driveuploader.com/upload/J8f35bo6NL/)
 
 
 
