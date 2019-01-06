@@ -31,7 +31,7 @@ We will use RMSE (Root Mean Squared Error) to score the submissions.
 
 ## Data 
 
-[Data](http://www.dropbox.com/s/hib7optbsxhq2ny/data.zip?dl=1)
+[Data](https://www.dropbox.com/s/mvkk20rage783mq/data.zip?dl=1)
 
 The zip contains 3 files : train.csv, test.csv and sample_submission.csv
 
