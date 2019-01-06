@@ -36,7 +36,7 @@ You can access a sample of the data right now: <https://www.dropbox.com/s/z4bz0i
 The final data link will be updated on the day of the event
 
 
-<!---
+
 The zip contains 3 files : train.csv, test.csv and sample_submission.csv
 
 You need to use train.csv to train your algorithms and submit the predictions for the ads in test.csv. 
@@ -58,6 +58,5 @@ sample_submission.csv is the submission format.
 
 - Upload your solutions to : **Upload Link**
 
----> 
 
 
